@@ -1,14 +1,14 @@
 {
-  "name": "hapi-mongodb",
+  "name": "hapi-mongoose",
   "version": "6.2.1",
-  "description": "A simple Hapi MongoDB connection plugin.",
+  "description": "A simple Hapi Mongoose connection plugin.",
   "main": "lib/index.js",
   "scripts": {
     "test": "lab -M 5000 -t 100 -a code -L"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Marsup/hapi-mongodb.git"
+    "url": "https://github.com/DamodarSojka/hapi-mongoose.git"
   },
   "keywords": [
     "hapi",
@@ -16,7 +16,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Marsup/hapi-mongodb/issues"
+    "url": "https://github.com/DamodarSojka/hapi-mongoose/issues"
   },
   "dependencies": {
     "async": "2.x.x",
